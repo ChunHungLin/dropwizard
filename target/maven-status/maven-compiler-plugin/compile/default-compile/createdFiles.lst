@@ -1,0 +1,5 @@
+com/murdock/examples/dropwizard/resources/HolaFactory.class
+com/murdock/examples/dropwizard/HolaDropwizardConfiguration.class
+com/murdock/examples/dropwizard/resources/HolaRestResourceV1.class
+com/murdock/examples/dropwizard/HolaDropwizardApplication.class
+com/murdock/examples/dropwizard/SQL_conn.class
